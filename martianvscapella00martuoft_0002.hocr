@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./martianvscapella00martuoft_0002.png"; bbox 0 0 1904 3146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 302 325 1639 739">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 302 325 1639 739">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 325 1342 403; baseline 0.003 -19"><span class='ocrx_word' id='word_1_1' title='bbox 604 326 758 387; x_wconf 90' lang='lat' dir='ltr'>This</span> <span class='ocrx_word' id='word_1_2' title='bbox 790 326 954 387; x_wconf 89' lang='lat' dir='ltr'>book</span> <span class='ocrx_word' id='word_1_3' title='bbox 983 325 1243 403; x_wconf 83' lang='lat' dir='ltr'><strong>belongs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1278 343 1342 386; x_wconf 91' lang='lat' dir='ltr'><strong>to</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 340 412 1605 474; baseline 0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 340 412 515 471; x_wconf 90' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 547 413 1012 473; x_wconf 89' lang='lat' dir='ltr'>CAMPBELL</span> <span class='ocrx_word' id='word_1_7' title='bbox 1040 412 1605 474; x_wconf 91' lang='lat' dir='ltr'>COLLECTION</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 527 500 1421 579; baseline -0.001 -18"><span class='ocrx_word' id='word_1_8' title='bbox 527 502 870 579; x_wconf 85' lang='lat' dir='ltr'>purchased</span> <span class='ocrx_word' id='word_1_9' title='bbox 900 502 1054 562; x_wconf 90' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_10' title='bbox 1089 502 1194 562; x_wconf 89' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1226 501 1323 562; x_wconf 86' lang='lat' dir='ltr'><strong>aid</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1353 500 1421 562; x_wconf 86' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 302 587 1639 651; baseline 0.001 -5"><span class='ocrx_word' id='word_1_13' title='bbox 302 587 446 649; x_wconf 90' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 475 589 1193 651; x_wconf 86' lang='lat' dir='ltr'><strong>MacDonald-Stewart</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1223 589 1639 650; x_wconf 87' lang='lat' dir='ltr'>Foundation</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 916 680 1037 739; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 916 680 1037 739; x_wconf 88' lang='lat' dir='ltr'><strong>and</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 597 767 1344 829">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 597 767 1344 829">
+     <span class='ocr_line' id='line_1_6' title="bbox 597 767 1344 829; baseline 0 -3"><span class='ocrx_word' id='word_1_17' title='bbox 597 767 740 828; x_wconf 86' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 769 767 1032 829; x_wconf 87' lang='lat' dir='ltr'>Canada</span> <span class='ocrx_word' id='word_1_19' title='bbox 1059 767 1344 829; x_wconf 90' lang='lat' dir='ltr'><strong>Council</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
